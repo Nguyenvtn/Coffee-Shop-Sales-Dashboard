@@ -1,4 +1,4 @@
-:barchart: # Coffee Shop Sales Analysis (Power BI Project)
+# :bar_chart Coffee Shop Sales Analysis (Power BI Project)
 
 ## Project Overview
 
