@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes six months of transactional sales data from a coffee shop business operating across multiple store locations.
+This project analyzes 6 months of transactional sales data from a coffee shop business operating across multiple store locations.
 
 Using Power BI, the objective was to transform raw sales data into an interactive dashboard that provides insights into sales performance, customer purchasing behavior, product demand, and store-level performance.
 
