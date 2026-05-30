@@ -1,5 +1,5 @@
 # :bar_chart: Coffee Shop Sales Analysis (Power BI Project)
-
+🔗 Link to access my dashboard: https://lnkd.in/gQEKes8n
 ## Project Overview
 
 Built an interactive Power BI dashboard to analyze coffee shop sales performance, customer purchasing behavior, product demand, and store-level trends, generating actionable business insights to support decision-making.
